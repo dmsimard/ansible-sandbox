@@ -87,6 +87,7 @@ It looks like this (at the moment of writing)::
       "Debian": {
         "name": "Debian",
         "versions": [
+          "bookworm",
           "bullseye",
           "buster",
           "etch",
@@ -128,7 +129,8 @@ It looks like this (at the moment of writing)::
           "5",
           "6",
           "7",
-          "8"
+          "8",
+          "9"
         ]
       },
       "eos": {
@@ -156,7 +158,11 @@ It looks like this (at the moment of writing)::
           "29",
           "30",
           "31",
-          "32"
+          "32",
+          "33",
+          "34",
+          "35",
+          "36"
         ]
       },
       "FreeBSD": {
@@ -283,6 +289,7 @@ It looks like this (at the moment of writing)::
           "15.0",
           "15.1",
           "15.2",
+          "15.3",
           "42.1",
           "42.2",
           "42.3"
@@ -361,6 +368,8 @@ It looks like this (at the moment of writing)::
           "eoan",
           "focal",
           "groovy",
+          "hirsute",
+          "impish",
           "lucid",
           "maverick",
           "natty",
